@@ -20,7 +20,7 @@ function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/kansaljatin/jiit-project-portal"
+                  href="https://github.com/kansaljatin/Project-Management-and-Monitoring-System"
                   className="text-dark"
                 >
                   Github
